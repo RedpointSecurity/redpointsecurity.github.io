@@ -1,2 +1,0 @@
-# redpointsecurity.com
-website
